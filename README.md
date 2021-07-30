@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋,soy Facundo Noriega</h1>
-<h3 align="center">Soy desarrollador Front End Jr de Argentina</h3>
+<h1 align="center">Hola 👋, soy Facundo Noriega</h1>
+<h3 align="center">Soy desarrollador FrontEnd Jr de Argentina</h3>
 
 - Puedes visitar mi portfolio aquí [facuNorie Portfolio](www.facunorie.tech)
 
