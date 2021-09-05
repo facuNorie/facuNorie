@@ -17,3 +17,20 @@
   </a>
 </p>
 <hr>
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Material-UI", "SASS", "Bootstrap", "Styled-components"]
+      },
+      databases: ["mySQL"],
+      services: ["Firebase", "Git"]
+   },
+   currentOccupation: ["student, open for job opportunities"],
+};
+```
+</br></br>
