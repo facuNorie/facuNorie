@@ -12,9 +12,6 @@
 <a href="https://github.com/facuNorie/" target="_BLANK">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
-  <a href="https://www.instagram.com/facunorie/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
 </p>
 <hr>
 
