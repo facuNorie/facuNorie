@@ -2,7 +2,7 @@
    <img align="center" width="200" src="https://user-images.githubusercontent.com/77125343/132131525-e83104a9-11a9-45ac-bac8-257d0a732894.jpeg" />
    <h3 align="center">¡Hey! Soy facuNorie👋👨🏻‍💻</h3>
 </p>
-<p align="center">Soy <strong>Desarrollador Junior Front End</strong> de Argentina.<br />¡Puedes encontrarme aquí👇!</p>
+<p align="center">Soy <strong>Desarrollador Front End</strong> de Argentina.<br />¡Puedes encontrarme aquí👇!</p>
 <br />
 
 <p align="center">
