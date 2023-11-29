@@ -21,13 +21,13 @@ const aboutMe = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React, Next js"],
          css: ["Material-UI", "SASS", "Bootstrap", "Styled-components"]
       },
       databases: ["mySQL"],
-      services: ["Firebase", "Git"]
+      services: ["Firebase", "Git", "Bitbucket", "Jira"]
    },
-   currentOccupation: ["student, open for job opportunities"],
+   currentOccupation: ["open for job opportunities"],
 };
 ```
 </br></br>
