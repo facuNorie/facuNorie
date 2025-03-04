@@ -1,8 +1,7 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/77125343/132131525-e83104a9-11a9-45ac-bac8-257d0a732894.jpeg" />
-   <h3 align="center">¡Hey! Soy facuNorie👋👨🏻‍💻</h3>
+   <h3 align="center">¡Hey! I'm Facundo Noriega👋👨🏻‍💻</h3>
 </p>
-<p align="center">Soy <strong>Desarrollador Front End</strong> de Argentina.<br />¡Puedes encontrarme aquí👇!</p>
+<p align="center">I am <strong>Frontend Developer</strong> from Argentina.<br />¡You can find me here👇!</p>
 <br />
 
 <p align="center">
